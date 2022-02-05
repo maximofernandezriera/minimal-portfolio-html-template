@@ -156,7 +156,7 @@ header #logo a {
 }
 
 header #logo a:hover {
-	color: #777;	
+	color: #ee9ca7;	
 }
 
 
@@ -181,9 +181,9 @@ nav#menu #menu-nav li {
 }
 
 nav#menu #menu-nav li a {
-	color: #000;
+	color: #fdde1;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 500;
 	line-height: 100px;
 	display: block;
@@ -195,7 +195,7 @@ nav#menu #menu-nav li:last-child {
 }
 
 nav#menu #menu-nav li a:hover {
-	color: #777;
+	color: #ee9ca7;
 }
 
 /* ==================================================
