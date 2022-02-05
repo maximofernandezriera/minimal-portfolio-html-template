@@ -237,6 +237,7 @@ iframe {
     background-color: #777;
     display: block;
     border-style:none;
+    allow:fullscreen;
 }
 
 /* ==================================================
