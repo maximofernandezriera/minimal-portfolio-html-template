@@ -231,13 +231,11 @@ nav#menu #menu-nav li a:hover {
 }
 
 iframe {
-    width: 365px;
-    height: 202px;
-    margin: 0 auto;
-    background-color: #777;
+    width: 360px;
+    height: 200px;
+    background-color: #ffdde1;
     display: block;
     border-style:none;
-    allow:fullscreen;
 }
 
 /* ==================================================
