@@ -83,7 +83,7 @@ textarea::input-placeholder {
 h3,
 h6{
 	margin:0 0 20px 0;
-	color:#000;
+	color:#ee9ca7;
 	font-weight:400;
 	font-family: 'Montserrat', sans-serif;
 	line-height:1.5em;
@@ -91,7 +91,7 @@ h6{
 
 h3{
 	font-size:22px;
-	color:#000;
+	color:#ee9ca7;
 	letter-spacing: 0.6px;
 	text-align:center;
 	font-weight:400;
@@ -115,7 +115,7 @@ h7{
 	font-size:14px;
 	font-weight:400;
 	letter-spacing: 1px;
-	color:#000;
+	color:#ee9ca7;
 	letter-spacing: 0.5px;
 	text-align:center;
 	line-height:1.6em;
@@ -147,7 +147,7 @@ header {
 }
 
 header #logo a {
-	color: #000;
+	color: #ffdde1;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 22px;
 	font-weight: 500;
@@ -212,7 +212,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #intro-box h3 {
-	color: #000;
+	color: #ffdde1;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 33px;
     font-weight: 400;
