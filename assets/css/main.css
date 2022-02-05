@@ -147,7 +147,7 @@ header {
 }
 
 header #logo a {
-	color: #000;
+	color: #ee9ca7;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 22px;
 	font-weight: 500;
@@ -156,7 +156,7 @@ header #logo a {
 }
 
 header #logo a:hover {
-	color: #777;	
+	color: #ffdde1;	
 }
 
 
