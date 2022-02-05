@@ -83,7 +83,7 @@ textarea::input-placeholder {
 h3,
 h6{
 	margin:0 0 20px 0;
-	color:#ee9ca7;
+	color:#000;
 	font-weight:400;
 	font-family: 'Montserrat', sans-serif;
 	line-height:1.5em;
@@ -91,7 +91,7 @@ h6{
 
 h3{
 	font-size:22px;
-	color:#ee9ca7;
+	color:#000;
 	letter-spacing: 0.6px;
 	text-align:center;
 	font-weight:400;
@@ -115,7 +115,7 @@ h7{
 	font-size:14px;
 	font-weight:400;
 	letter-spacing: 1px;
-	color:#ee9ca7;
+	color:#000;
 	letter-spacing: 0.5px;
 	text-align:center;
 	line-height:1.6em;
@@ -147,7 +147,7 @@ header {
 }
 
 header #logo a {
-	color: #ffdde1;
+	color: #000;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 22px;
 	font-weight: 500;
@@ -156,7 +156,7 @@ header #logo a {
 }
 
 header #logo a:hover {
-	color: #ee9ca7;	
+	color: #777;	
 }
 
 
@@ -181,9 +181,9 @@ nav#menu #menu-nav li {
 }
 
 nav#menu #menu-nav li a {
-	color: #fdde1;
+	color: #000;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 500;
 	line-height: 100px;
 	display: block;
@@ -195,7 +195,7 @@ nav#menu #menu-nav li:last-child {
 }
 
 nav#menu #menu-nav li a:hover {
-	color: #ee9ca7;
+	color: #777;
 }
 
 /* ==================================================
@@ -212,7 +212,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #intro-box h3 {
-	color: #ffdde1;
+	color: #000;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 33px;
     font-weight: 400;
