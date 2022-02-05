@@ -230,6 +230,15 @@ nav#menu #menu-nav li a:hover {
 	text-align: center;
 }
 
+iframe {
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+    border-style:none;
+}
+
 /* ==================================================
    Team People / Single Team
 ================================================== */
